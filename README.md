@@ -33,7 +33,7 @@ dataset/
 * Matplotlib
 * NumPy
 
-**📊 Results**  
+****📊 Results****
 * Training Accuracy: ~95%
 * Validation Accuracy: ~90%
 * Final model evaluated with test images and performs well on unseen data
