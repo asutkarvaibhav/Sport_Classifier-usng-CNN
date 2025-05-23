@@ -21,10 +21,10 @@ The CNN model includes:
 
 **🗂 Dataset**  
 The model uses a custom image dataset consisting of sports images categorized into different folders (e.g., Cricket, Football, Tennis, etc.). Make sure your dataset directory structure is:  
-dataset/
-  ├── cricket/
-  ├── football/
-  ├── tennis/
+dataset/  
+  ├── cricket/  
+  ├── football/  
+  ├── tennis/  
   └── ...
 
 **🛠 Technologies Used**  
@@ -33,10 +33,10 @@ dataset/
 * Matplotlib
 * NumPy
 
-****📊 Results****
+**📊 Results**  
 * Training Accuracy: ~95%
 * Validation Accuracy: ~90%
 * Final model evaluated with test images and performs well on unseen data
 
-**👨‍💻 Author**
+**👨‍💻 Author**  
 Vaibhav Asutkar
